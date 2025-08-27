@@ -1,0 +1,15 @@
+D:\C# programs\lesons\MT_bank\MT_bank\bin\Debug\MT_bank.exe.config
+D:\C# programs\lesons\MT_bank\MT_bank\bin\Debug\MT_bank.exe
+D:\C# programs\lesons\MT_bank\MT_bank\bin\Debug\MT_bank.pdb
+D:\C# programs\lesons\MT_bank\MT_bank\obj\Debug\MT_bank.csproj.AssemblyReference.cache
+D:\C# programs\lesons\MT_bank\MT_bank\obj\Debug\MT_bank.Form1.resources
+D:\C# programs\lesons\MT_bank\MT_bank\obj\Debug\MT_bank.Properties.Resources.resources
+D:\C# programs\lesons\MT_bank\MT_bank\obj\Debug\MT_bank.csproj.GenerateResource.cache
+D:\C# programs\lesons\MT_bank\MT_bank\obj\Debug\MT_bank.csproj.CoreCompileInputs.cache
+D:\C# programs\lesons\MT_bank\MT_bank\obj\Debug\MT_bank.exe
+D:\C# programs\lesons\MT_bank\MT_bank\obj\Debug\MT_bank.pdb
+D:\C# programs\lesons\MT_bank\MT_bank\obj\Debug\MT_bank.exe.config
+D:\C# programs\lesons\MT_bank\MT_bank\bin\Debug\MySql.Data.dll
+D:\C# programs\lesons\MT_bank\MT_bank\bin\Debug\MySql.Data.xml
+D:\C# programs\lesons\MT_bank\MT_bank\obj\Debug\MT_bank.csproj.Up2Date
+D:\C# programs\lesons\MT_bank\MT_bank\obj\Debug\MT_bank.MainPage.resources
