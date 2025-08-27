@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MT\_bank
 
 **A simple C# WinForms banking system with MySQL**
@@ -58,3 +59,6 @@ CREATE TABLE users (
 2. Install the NuGet package **MySql.Data**.
 4. Run the project (`F5`) and use a login from the SQL dump for testing.
 
+=======
+# -MT-Bank
+>>>>>>> fa466391b602c533ca31eb6a9617274b41a2be6c
